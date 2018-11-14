@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# NuGrid Collaboration
 
-You can use the [editor on GitHub](https://github.com/NuGrid/nugrid.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Nucleosynthesis Grid (NuGrid) collaboration, formed in fall 2007, develops
+and maintains tools for large scale post-processing nucleosynthesis simulations
+with up-to-date and flexible nuclear physics input, and apply these to complete
+sets of quiescent and explosive nuclear production environments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Science Goal
+Our science goal is to provide complete sets of stellar evolution sequences for
+low-mass and massive stars with compatible input physics, including explosion
+simulations, and calculate the complete nucleosynthesis with the same
+post-processing code. In this way we will obtain a high degree of internal
+consistency. We plan to generate yield sets covering the entire mass and
+metallicity space, in collaboration with teams working in galactic chemical
+evolution and near-field cosmology.
 
-### Markdown
+### Approach
+The NuGrid approach is characterized by a commitment to forward modeling based
+on our physics understanding of the involved processes, verification and
+validation, and uncertainty quantification, including the important aspect of
+nuclear physics input.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NuGrid/nugrid.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
