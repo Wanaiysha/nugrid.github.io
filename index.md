@@ -5,5 +5,10 @@ and maintains tools for large scale post-processing nucleosynthesis simulations
 with up-to-date and flexible nuclear physics input, and apply these to complete
 sets of quiescent and explosive nuclear production environments.
 
-[Science Goals and Approach](science_goals.md)
-[Research Areas](research_areas.md)
+
+### Site Navigation
+
+ | :---:                                               | :---:                           | 
+ | [Science Goals and Approach](content/science_goals) | [Data Releases](content/data)   | 
+ | [Research Areas](content/research_areas)            | [Members](content/members)      | 
+ | [Codes/Facilities](content/codes_collab)            | [Acknowledgements](content/ack) | 
