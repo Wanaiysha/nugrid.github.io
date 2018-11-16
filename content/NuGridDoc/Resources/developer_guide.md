@@ -1,4 +1,4 @@
-# Developer guide
+# Developer Guide
 In this document we collect best practices and guidlines for NuGrid code developements. 
 
 

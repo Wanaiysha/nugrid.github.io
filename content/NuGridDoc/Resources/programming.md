@@ -1,4 +1,4 @@
-# Essenitial skills for NuGrid members and users
+# Essential Skills for NuGrid Members and Users
 
 ## Unix command line
 NuGrid users need to have a basic grasp of the Linux command line.

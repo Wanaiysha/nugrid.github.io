@@ -1,4 +1,4 @@
-#Virtual and real machines for NuGrid codes
+#Virtual and Real Machines for NuGrid Codes
 
 In order to run all of the NuGrid codes and tools your computer must
 be properly configured. One way to get started is to use a virtual

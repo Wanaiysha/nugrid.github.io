@@ -1,11 +1,11 @@
-#  The unix command line
+#  The Unix Command Line
 
 This section uses material compiled by Brian O'Shea for his ICP 490 class at MSU.
 
-## the shell
+## The shell
 The program that provides the command line (not all of the commands) is the shell. A common shell is `bash`. Try `> man bash`. The command line is a unix process. Launching a command on the command line interface (CLI) spawns a child process.
 
-## file manipulation
+## File manipulation
 * you will need a terminal command line editor without GUI, such as `emacs` or `vi`
 * more/less/tail/head
 * cat, touch
@@ -13,7 +13,7 @@ The program that provides the command line (not all of the commands) is the shel
 * grep
 * wc (-l)
 
-## file system
+## File system
 * ls (-l, many other options)
 * cd  (. or .. or ~ or actual directory)
 * pwd
@@ -23,11 +23,11 @@ The program that provides the command line (not all of the commands) is the shel
 * du (-sh)
 * df (-h)
 
-## helpful commands
+## Helpful commands
 * man (command)
 * history
 
-## networking
+## Networking
 * ssh
 * scp
 * whoami
@@ -35,18 +35,18 @@ The program that provides the command line (not all of the commands) is the shel
 * ftp
 * wget
 
-## processes
+## Processes
 * top
 * ps
 * pipes and filters: use | to pipe between command, use > to redirect output
 
-## customizing your CLI
+## Customizing your CLI
 You can define variables and aliases in the .bashrc file. The details on how this is set up depends on the particular Linux/Unix/Mac flavour.
 
 * alias
 * environment variables
 
-##Shell scripts
+## Shell scripts
 
 You can combine a sequence of shell commands into a file and use as a shell script. You have to make the file with the script executable (`chmod u+x file_name.sh`). See file `example.sh` in the [example directory](https://github.com/fherwig/physmath248_pilot/blob/master/examples/example.sh).
 
