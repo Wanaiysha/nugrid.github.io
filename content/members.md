@@ -36,7 +36,8 @@ collaboration rules.
 |                                     | S. Andrews                           | 
 | **Observatory of Torino, INAF, IT** | C. Travaglio                         | 
 |                                     | S. Bisterzo                          | 
-| **University of Hull, UK**          | M. Pignatari                         | 
+| **University of Hull, UK**          | M. Pignatari                         |
+|                                     | Richard Stancliffe                   |
 |                                     | James Keegans                        | 
 |                                     | Tom Lawson                           | 
 |                                     | Tom Trueman                          | 
