@@ -15,7 +15,7 @@ like to perform a longer-term research project or a training session
 with WENDI please contact Falk Herwig so that we can ensure stable
 access and storage, maybe to one of the backup servers.
 
-* [WENDI1](https://206-12-59-19.cloud.computecanada.ca): Main public server. Status: stable, running. Note that instances older than 12 hours may be killed at any time.
+* [WENDI1](https://206-12-59-19.cloud.computecanada.ca): Main public server. Status: stable, running.Instances older than 12 hours may be killed at any time.
 * [WENDI12](https://206-12-97-9.cloud.computecanada.ca): Backup server. Status: experimenting with new applications.
 * [WENDI13](https://206-12-100-165.cloud.computecanada.ca): Access limited to NuGrid members. 
 
