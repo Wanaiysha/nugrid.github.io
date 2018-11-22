@@ -12,4 +12,4 @@ sets of quiescent and explosive nuclear production environments.
  | [Science Goals and Approach](content/science_goals) | [Data Releases](content/data)   | 
  | [Research Areas](content/research_areas)            | [Members](content/members)      | 
  | [Codes/Facilities](content/codes_collab)            | [NuGrid Documentation](content/NuGridDoc/NuGridDoc_index.md) | 
- | [Acknowledgements](content/ack)           |
+ | [(WENDI](content/wendi)  | [Acknowledgements](content/ack)           |
