@@ -49,7 +49,7 @@ These are the direct links to data directories on the CANFAR VOspace storage. Th
 Metallicity | Link
 ------------|-----
 Z=0.02 | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.2>
-Z=0.01 | <http://www.canfar.phys.uvic.ca/vosui/\#/nugrid/data/set1ext/set1.1>
+Z=0.01 | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.1>
 Z=0.006 | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.3a>
 Z=0.001 | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.4a>
  Z=0.0001 |<http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.5a>
@@ -65,8 +65,8 @@ Z=0.01 |<http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1/set1.1>
 
 Data | Link
 -----|-----
-Set 1 | <http://www.canfar.phys.uvic.ca/vosui/\#/nugrid/data/set1/Figures>
-Set 1 extension | <http://www.canfar.phys.uvic.ca/vosui/\#/nugrid/data/set1ext/Figures>
+Set 1 | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1/Figures>
+Set 1 extension | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/Figures>
 
 ### References
 
