@@ -52,7 +52,7 @@ Z=0.02 | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.2>
 Z=0.01 | <http://www.canfar.phys.uvic.ca/vosui/\#/nugrid/data/set1ext/set1.1>
 Z=0.006 | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.3a>
 Z=0.001 | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.4a>
- Z=0.0001 ||<http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.5a>
+ Z=0.0001 |<http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/set1.5a>
 
 **Set 1 directories** 
 
@@ -63,13 +63,12 @@ Z=0.01 |<http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1/set1.1>
 
 ### Figures
 
-Figures of Set 1 can be found at
-[http://www.canfar.phys.uvic.ca/vosui/\#/nugrid/data/set1/Figures.](http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1/Figures)
-
-Figures of Set 1 extension can be found at
-[http://www.canfar.phys.uvic.ca/vosui/\#/nugrid/data/set1ext/Figures.](http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/Figures)
-
+Data | Link
+-----|-----
+Set 1 | <http://www.canfar.phys.uvic.ca/vosui/\#/nugrid/data/set1/Figures>
+Set 1 extension | <http://www.canfar.phys.uvic.ca/vosui/\#/nugrid/data/set1ext/Figures>
 
 ### References
-Ritter C, Herwig F, Jones S, Pignatari M, Fryer C, Hirschi R. 2018. MNRAS. 480(1):538–71 (Set 1 ext)
-Pignatari M, Herwig F, Hirschi R, Bennett M, Rockefeller G, et al. 2016. ASTROPHYS J SUPPL S. 225(2):24 (Set 1)
+
+- Ritter C, Herwig F, Jones S, Pignatari M, Fryer C, Hirschi R. 2018. MNRAS. 480(1):538–71 (Set 1 ext)
+- Pignatari M, Herwig F, Hirschi R, Bennett M, Rockefeller G, et al. 2016. ASTROPHYS J SUPPL S. 225(2):24 (Set 1)
