@@ -10,7 +10,6 @@ collaboration rules.
 [Marco Pignatari](mpignatari@gmail.com)  
 [Umberto Battino](u.battino@ed.ac.uk)  
 [Benoit Côté](bcote@uvic.ca)  
-[Samuel Jones](swjones@lanl.gov)  
 [Alison Laird](alison.laird@york.ac.uk)  
 
 ### Points of contact
