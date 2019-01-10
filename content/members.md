@@ -27,7 +27,8 @@ collaboration rules.
 |                                     | P. Denisenkov                        | 
 |                                     | O. Clarkson                          | 
 |                                     | A. Davis                             | 
-|                                     | D. Stephens                          | 
+|                                     | D. Stephens                          |
+|                                     | A. Paul                              |
 | **LANL, USA**                       | C. Fryer                             | 
 |                                     | S. Jones                             | 
 |                                     | W. Even                              | 
@@ -45,10 +46,7 @@ collaboration rules.
 |                                     | Meredith Sheppard                    | 
 |                                     | Adam Cox                             | 
 |                                     | William Bruce                        | 
-|                                     | Benjamin Brooks                      | 
-|                                     | Katherine Hall                       | 
-|                                     | Jasmine Stainton                     | 
-|                                     | Emilio Cuandu                        | 
+|                                     | Benjamin Brooks                      |  
 |                                     | Jacob Tomassi                        | 
 | **Arizona State University, USA**   | F. X. Timmes                         | 
 |                                     | Ilka Petermann                       | 
@@ -98,12 +96,12 @@ collaboration rules.
 [//]: <> <h3>Past members</h3>
 [//]: <> <p></p>
 [//]: <> <ul type="none">
-[//]: <> <li>University of Victoria, Canada: Adam Paul<sup>u</sup>, Luke
-[//]: <> Siemens<sup>u</sup></li>
+[//]: <> <li>University of Victoria, Canada: Luke Siemens<sup>u</sup></li>
 [//]: <> <li>E.A. Milne Centre for Astrophysics, University of Hull, UK: Jacob
-[//]: <> Brazier<sup>u</sup></li><li>Basel University, Switzerland: Isabelle van
-[//]: <> Rijs
-[//]: <> <li>Universtaet Frankfurt, GSI, Germany: Thien Tam Ngyuen<sup>u</sup>, Paula
+[//]: <> Brazier<sup>u</sup>, Katherine Hall<sup>u</sup>, Jasmine Stainton<sup>u</sup>,
+[//]: <> Emilio Cuandu<sup>u</sup></li>
+[//]: <> Basel University, Switzerland: Isabelle van Rijs <li>
+[//]: <> Universtaet Frankfurt, GSI, Germany: Thien Tam Ngyuen<sup>u</sup>, Paula
 [//]: <> Hillmann<sup>u</sup>, Alexander Koloczek<sup>g</sup>, Benedikt
 [//]: <> Thomas<sup>g</sup>, Tanja Heftrich<sup>p</sup>,Tanja Kausch<sup>u</sup>, Rene
 [//]: <> Schach<sup>u</sup> </li>
