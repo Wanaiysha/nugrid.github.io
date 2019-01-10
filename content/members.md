@@ -42,7 +42,6 @@ collaboration rules.
 |                                     | Tom Lawson                           | 
 |                                     | Tom Trueman                          | 
 |                                     | Paul Fong                            | 
-|                                     | Callum Silk                          | 
 |                                     | Meredith Sheppard                    | 
 |                                     | Adam Cox                             | 
 |                                     | William Bruce                        | 
@@ -99,7 +98,7 @@ collaboration rules.
 [//]: <> <li>University of Victoria, Canada: Luke Siemens<sup>u</sup></li>
 [//]: <> <li>E.A. Milne Centre for Astrophysics, University of Hull, UK: Jacob
 [//]: <> Brazier<sup>u</sup>, Katherine Hall<sup>u</sup>, Jasmine Stainton<sup>u</sup>,
-[//]: <> Emilio Cuandu<sup>u</sup></li>
+[//]: <> Emilio Cuandu<sup>u</sup>, Callum Silk<sup>u</sup></li>
 [//]: <> Basel University, Switzerland: Isabelle van Rijs <li>
 [//]: <> Universtaet Frankfurt, GSI, Germany: Thien Tam Ngyuen<sup>u</sup>, Paula
 [//]: <> Hillmann<sup>u</sup>, Alexander Koloczek<sup>g</sup>, Benedikt
