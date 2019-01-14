@@ -1,5 +1,8 @@
 # NuGrid Collaboration
 
+### Publications
+[NuGird on ADS](https://ui.adsabs.harvard.edu/#search/q=NuGrid&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+
 ### Research Areas
 In addition to the primary goals the collaboration facilitates projects (in
 varying degrees of completion) in the following research areas (in no
