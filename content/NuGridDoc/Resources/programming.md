@@ -3,7 +3,7 @@
 ## Unix command line
 NuGrid users need to have a basic grasp of the Linux command line.
 
-* [essential aspects and further resources](./copmmand_line.md)
+* [Essential aspects and further resources](./command_line.md)
 
 ## General programming
 NuGrid is about nuclear astrophysics simulations which requires building codes which requires programming. The following is a list of possible places to start learning about programming:
@@ -14,7 +14,7 @@ NuGrid is about nuclear astrophysics simulations which requires building codes w
 4. [Roundy: Introduction to Computational Physics](http://www.lulu.com/ca/en/shop/david-roundy/introduction-to-computational-physics/ebook/product-17437845.html) (free ebook)
 5. [Cunningham: Python in 24 hours](http://voyager.library.uvic.ca/vwebv/holdingsInfo?searchId=5015&recCount=25&recPointer=17&bibId=3208444) (available as ebook from the UVic library)
 6. [Pierro: Annotated Algorithms in Python](https://books.google.ca/books/about/Annotated_Algorithms_in_Python.html?id=cZyPngEACAAJ&redir_esc=y)
-7. Specifically for numerical work there is the classic text [Press etal.: Numerical Recipes](http://www.nr.com)
+7. Specifically for numerical work there is the classic text [Press et al.: Numerical Recipes](http://www.nr.com)
 
 
 
