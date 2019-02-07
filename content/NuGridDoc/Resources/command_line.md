@@ -55,8 +55,6 @@ You can find numerous online tutorials and support resources on the internet, su
 
 * <http://linuxcommand.org/lc3_learning_the_shell.php>
 * <http://www.emacswiki.org/emacs/LearningEmacs>
-* <https://www.youtube.com/watch?v=hbzRWQjA6kI>
-* <https://www.youtube.com/watch?v=pYUGzgYAgEo>
 * <https://www.youtube.com/watch?v=3DA1grSp4mU>
 * you can do very advanced things, as shown, for example, in this [bash tutorial](http://www.funtoo.org/Bash_by_Example,_Part_1), [thanks for the suggestion](https://github.com/Hoverbear)
 
