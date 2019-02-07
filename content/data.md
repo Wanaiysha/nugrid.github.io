@@ -10,7 +10,7 @@
 * [Set 1 ext, DOI 10.11570/18.0002](https://www.doi.org/10.11570/18.0002)
 * Access via the NuGrid Cyberhubs instance [WENDI](http://wendi.nugridstars.org)
 
-See appendix of that paper for data access details.Please go to [Set 1](data-and-software/yields/set-1) of the Yields page in the [Yields Folder](data-and-software/yields), in the Data and software item on the left menu.
+See appendix of that paper for data access details. Please go to [Set 1](data-and-software/yields/set-1) of the Yields page in the [Yields Folder](data-and-software/yields), in the Data and software item on the left menu.
 
 ### Yields tables
 
