@@ -15,10 +15,10 @@ used for active developement. For archival access to the NuGrid svn server see b
 #### Command line access:
 
 * Install git on your computer. For example, if you are using linux: `sudo apt-get install git`
-*  For one time on each machine you need to configure git and tell it who you are and how you want to identify when talking to [Github](http://gitub.com/nugrid):
+*  For one time on each machine you need to configure git and tell it who you are and how you want to identify when talking to [GitHub](http://github.com/nugrid):
     - `git config --global user.name "GITHUB_USERNAME"`
     - `git config --global user.email "GITHUB_EMAIL"`
-* the most convenient way to authenticate with [Github](http://gitub.com/nugrid) is to add your public ssh key to your github profile
+* the most convenient way to authenticate with [GitHub](http://github.com/nugrid) is to add your public ssh key to your github profile
 * In a convenient location on your computer clone a NuGrid repo, e.g.: `git clone git@github.com:NuGrid/NuPPN.git`
 
 
@@ -31,7 +31,7 @@ used for active developement. For archival access to the NuGrid svn server see b
  * [svn 2 git transition guide](https://www.atlassian.com/git/tutorials/svn-to-git-prepping-your-team-migration)
  * [Short online git tutorial](https://try.github.io/levels/1/challenges/1)
  * [First time git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
- * [Git essentials and links to further resources](https://github.com/fherwig/physmath248_pilot/blob/master/git_intro.ipynb) 
+ * [Git essentials and links to further resources](https://github.com/UVic-CompPhys/physmath248-2018/blob/master/Part.I/2.%20Intro%20Git.ipynb) 
 
 ### Useful commands
 
@@ -179,6 +179,3 @@ transition to [NuGrid GitHub organization](http://github.com/nugrid) content wil
 
 ### Resources for svn
 * The [svn book](http://svnbook.red-bean.com)
-
-* NuGrid Plone [Getting started with
-  Subversion](http://www.nugridstars.org/work-packages/io-technologies/getting-started-with-subversion/?searchterm=svn)
