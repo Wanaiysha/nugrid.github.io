@@ -7,15 +7,17 @@ collaboration rules.
 
 ### Principal Investigators
 
-[Marco Pignatari](mpignatari@gmail.com)  
-[Umberto Battino](u.battino@ed.ac.uk)  
-[Benoit Côté](bcote@uvic.ca)  
-[Alison Laird](alison.laird@york.ac.uk)  
+[Umberto Battino](mailto:ubattino@staffmail.ed.ac.uk)  
+[Benoit Côté](mailto:benoit.cote@csfk.mta.hu)  
+[Jacqueline den Hartogh](mailto:jacqueline.den.hartogh@csfk.mta.hu)  
+[Falk Herwig](mailto:fherwig@uvic.ca)  
+[Alison Laird](mailto:alison.laird@york.ac.uk)  
+[Marco Pignatari](mailto:mpignatari@gmail.com)  
 
 ### Points of contact
 
-|Project coordinator | [Marco Pignatari](mpignatari@gmail.com) |
-|Membership administrator| [Ashley Tattersall](ashley.tattersall@ed.ac.uk) |
+|Project coordinator | [Marco Pignatari](mailto:mpignatari@gmail.com) |
+|Membership administrator| [Ashley Tattersall](mailto:ashley.tattersall@ed.ac.uk) |
 
 ### Members
 
