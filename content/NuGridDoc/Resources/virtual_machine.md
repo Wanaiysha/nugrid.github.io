@@ -86,7 +86,7 @@ git clone git@github.com:NuGrid/NuPPN.git
 
 #### Linear Algebra
 
-To run the NuGrid [NiPPN](https://github.com/NuGrid/NuPPN) codes you need something like openblas, see the corresponding  [NuPPN wiki page: ](https://github.com/NuGrid/NuPPN/wiki/installation-dependencies).
+To run the NuGrid [NuPPN](https://github.com/NuGrid/NuPPN) codes you need something like openblas, see the corresponding  [NuPPN wiki page: ](https://github.com/NuGrid/NuPPN/wiki/installation-dependencies).
 
 As an example, installing openblas from scratch:
 ```
@@ -131,7 +131,6 @@ Nubuntu16 is a virtual drive created with the intent of making use of
 NuGrid tools a breeze for new or casual users.
 
 + In order to install it go to [this link](https://www.virtualbox.org/wiki/Downloads) and follow the download instructions. 
-+ Next, you will need a copy of the Nubuntu16 VM zip directory. You can get this [here](http://astrowww.phys.uvic.ca/~fherwig/NuGrid_Nubuntu/);   password protected: see [VirtualBox releases](http://www.nugridstars.org/general-info-for-members)
++ Next, you will need a copy of the Nubuntu16 VM zip directory. You can get this [here](http://astrowww.phys.uvic.ca/~fherwig/NuGrid_Nubuntu/).
 + Once you download and unzip the directory you simply have to click on Nubuntu16.vbox which will automatically launch the VM. Otherwise you can launch it via the VirtualBox Manager. 
 + On the desktop you will find a file entitled "README.md" This will guide you to download a copy of the NuGrid SVN repository, and gives clear instructions on how to compile ppn.
-+ More information can be found on the [NuGrid Plone](http://www.nugridstars.org/data-and-software/virtual-box-releases); that documentation includes links to older VMs (e.g. Nubuntu access) that are a bit old at this point and should be updated. 
