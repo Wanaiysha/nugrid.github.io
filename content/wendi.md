@@ -20,7 +20,7 @@ access and storage, maybe to one of the backup servers.
 	- Hardware: cloud server 4 VPUs, 15GB memory
 	- Main public server. Login with your github ID. 
 	- Instances older than 12hrs or instances consuming excessive resources maybe killed.
-* [WENDI2](https://206-12-97-9.cloud.computecanada.ca): Backup
+* [WENDI2](https://206-12-59-19.cloud.computecanada.ca): Backup
   server. Status: offline.
 * [WENDI3](https://206-12-90-42.cloud.computecanada.ca)
 	- Status: up and running.
