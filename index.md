@@ -13,4 +13,4 @@ sets of quiescent and explosive nuclear production environments.
  | [Research Areas](content/research_areas)            | [Members](content/members)      | 
  | [Codes/Facilities](content/codes_collab)            | [NuGrid Documentation](content/NuGridDoc/NuGridDoc_index.md) | 
  | [WENDI](content/wendi)  | [Acknowledgements](content/ack)           |
- | [NuGrid for members](https://github.com/NuGrid/NuGrid-for-Members) | |
+ | [NuGrid for members (login with github)](https://github.com/NuGrid/NuGrid-for-Members) | |
