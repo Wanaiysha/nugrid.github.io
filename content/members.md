@@ -95,6 +95,7 @@ collaboration rules.
 | **Chinese Academy of Sciences, CN** | Suqing Hou                           | 
 | **McMaster University, Canada**     | Alan Chen                            | 
 |                                     | Athanasios Psaltis                   | 
+| **MPI for Intelligent Systems**     | Jean-Claude Passy                    |
 
 [//]: <> <h3>Past members</h3>
 [//]: <> <p></p>
