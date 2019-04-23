@@ -89,7 +89,6 @@ collaboration rules.
 |                                     | Umberto Battino                      | 
 |                                     | Ashley Tattersall                    | 
 |                                     | Samual Lloyd                         | 
-|                                     | Dominic Miskelis                     |
 | **Konkoly Observatory, Hungary**    | Benoit Côté                          | 
 |                                     | Jacqueline den Hartogh               | 
 | **Chinese Academy of Sciences, CN** | Suqing Hou                           | 
