@@ -25,7 +25,8 @@ access and storage, maybe to one of the backup servers.
 	* Backup server. 
 	* Status: offline.
 
-* [WENDI3](https://206-12-91-2.cloud.computecanada.ca/wendi2): 	- Status: Running. 
+* [WENDI3](https://206-12-91-2.cloud.computecanada.ca/wendi2): 	
+        - Status: Running. 
 	- Hardware: cloud server 16 VCPUs, 120GB memory.
 	- Access only for NuGrid members.
 
