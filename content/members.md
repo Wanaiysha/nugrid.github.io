@@ -2,7 +2,7 @@
 
 NuGrid is an open, flexible collaboration involving researchers from
 institutions from UK, USA, Canada, Italy, Switzerland, Germany and Australia.
-The collaboration is guided by the [Manifesto](), which defines the
+The collaboration is guided by the [Manifesto](manifesto.md), which defines the
 collaboration rules.
 
 ### Principal Investigators
