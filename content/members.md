@@ -95,30 +95,19 @@ collaboration rules.
 | **McMaster University, Canada**     | Alan Chen                            | 
 |                                     | Athanasios Psaltis                   | 
 | **MPI for Intelligent Systems**     | Jean-Claude Passy                    |
+| **Texas A&M**                       | Shuya Ota                            |
 
-[//]: <> <h3>Past members</h3>
-[//]: <> <p></p>
-[//]: <> <ul type="none">
-[//]: <> <li>University of Victoria, Canada: Luke Siemens<sup>u</sup></li>
-[//]: <> <li>E.A. Milne Centre for Astrophysics, University of Hull, UK: Jacob
-[//]: <> Brazier<sup>u</sup>, Katherine Hall<sup>u</sup>, Jasmine Stainton<sup>u</sup>,
-[//]: <> Emilio Cuandu<sup>u</sup>, Callum Silk<sup>u</sup></li>
-[//]: <> Basel University, Switzerland: Isabelle van Rijs <li>
-[//]: <> Universtaet Frankfurt, GSI, Germany: Thien Tam Ngyuen<sup>u</sup>, Paula
-[//]: <> Hillmann<sup>u</sup>, Alexander Koloczek<sup>g</sup>, Benedikt
-[//]: <> Thomas<sup>g</sup>, Tanja Heftrich<sup>p</sup>,Tanja Kausch<sup>u</sup>, Rene
-[//]: <> Schach<sup>u</sup> </li>
-[//]: <> <li>Arizona State University, USA: Eric Deleeuw<sup>g</sup>, P. A. Young</li>
-[//]: <> <li>Michigan State University, USA: Ulrike Hager, Richard Cyburt</li>
-[//]: <> <li>ANU, Australia: Aaron Dotter<sup>p</sup></li>
-[//]: <> <li>Louisiana State Universtiy USA: Geoff Clayton, Kundam Kadam<sup>g</sup>,
-[//]: <> Ischelle Martin<sup>u</sup></li>
-[//]: <> <li>Notre Dame, USA: M. Beard<sup>p</sup>, Kiana Setoodehnia<sup>p</sup>, G.
-[//]: <> Magkotsios<sup>g</sup></li>
-[//]: <> <li>Keele University, UK: N. Nishimura, C. Georgy, A.
-[//]: <> Kozyreva, M. Bennett
-[//]: <> <li>University of Sevilla, Institut de Fisica Corpuscolar of Valencia, Spain:
-[//]: <> Pablo Gramage Iglesias<sup>g</sup>, Carlos Guerrero, Jorge Lerendegui
-[//]: <> Marc<sup>g</sup></li></ul>
-[//]: <> <p></p>
+Past members
 
+University of Victoria, Canada: Luke Siemens
+E.A. Milne Centre for Astrophysics, University of Hull, UK: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk
+Basel University, Switzerland: Isabelle van Rijs 
+Universtaet Frankfurt, GSI, Germany: Thien Tam Ngyuen, Paula
+Hillmann<sup>u</sup>, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach
+Arizona State University, USA: Eric Deleeuw, P. A. Young
+Michigan State University, USA: Ulrike Hager, Richard Cyburt
+ANU, Australia: Aaron Dotter
+Louisiana State Universtiy USA: Geoff Clayton, Kundam Kadam, Ischelle Martin
+Notre Dame, USA: M. Beard, Kiana Setoodehnia, G. Magkotsios
+Keele University, UK: N. Nishimura, C. Georgy, A. Kozyreva, M. Bennett
+University of Sevilla, Institut de Fisica Corpuscolar of Valencia, Spain: Pablo Gramage Iglesias, Carlos Guerrero, Jorge Lerendegui Marc
