@@ -97,17 +97,17 @@ collaboration rules.
 | **MPI for Intelligent Systems**     | Jean-Claude Passy                    |
 | **Texas A&M**                       | Shuya Ota                            |
 
-Past members
+Past members<br />
 
-University of Victoria, Canada: Luke Siemens
-E.A. Milne Centre for Astrophysics, University of Hull, UK: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk
-Basel University, Switzerland: Isabelle van Rijs 
+University of Victoria, Canada: Luke Siemens<br />
+E.A. Milne Centre for Astrophysics, University of Hull, UK: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk<br />
+Basel University, Switzerland: Isabelle van Rijs<br /> 
 Universtaet Frankfurt, GSI, Germany: Thien Tam Ngyuen, Paula
-Hillmann<sup>u</sup>, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach
-Arizona State University, USA: Eric Deleeuw, P. A. Young
-Michigan State University, USA: Ulrike Hager, Richard Cyburt
-ANU, Australia: Aaron Dotter
-Louisiana State Universtiy USA: Geoff Clayton, Kundam Kadam, Ischelle Martin
-Notre Dame, USA: M. Beard, Kiana Setoodehnia, G. Magkotsios
-Keele University, UK: N. Nishimura, C. Georgy, A. Kozyreva, M. Bennett
-University of Sevilla, Institut de Fisica Corpuscolar of Valencia, Spain: Pablo Gramage Iglesias, Carlos Guerrero, Jorge Lerendegui Marc
+Hillmann<sup>u</sup>, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach<br />
+Arizona State University, USA: Eric Deleeuw, P. A. Young<br />
+Michigan State University, USA: Ulrike Hager, Richard Cyburt<br />
+ANU, Australia: Aaron Dotter<br />
+Louisiana State Universtiy USA: Geoff Clayton, Kundam Kadam, Ischelle Martin<br />
+Notre Dame, USA: M. Beard, Kiana Setoodehnia, G. Magkotsios<br />
+Keele University, UK: N. Nishimura, C. Georgy, A. Kozyreva, M. Bennett<br />
+University of Sevilla, Institut de Fisica Corpuscolar of Valencia, Spain: Pablo Gramage Iglesias, Carlos Guerrero, Jorge Lerendegui Marc<br />
