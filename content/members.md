@@ -42,8 +42,8 @@ collaboration rules.
 | **University of Hull, UK**          | M. Pignatari                         |
 |                                     | Richard Stancliffe                   |
 |                                     | James Keegans                        | 
-|                                     | Tom Lawson                           | 
-|                                     | Tom Trueman                          | 
+|                                     | Thomas Lawson                        | 
+|                                     | Thomas Trueman                       | 
 |                                     | Paul Fong                            | 
 |                                     | Meredith Sheppard                    | 
 |                                     | Adam Cox                             | 
@@ -88,7 +88,7 @@ collaboration rules.
 | **University of Edinburgh, UK**     | Claudia Lederer-Woods                | 
 |                                     | Umberto Battino                      | 
 |                                     | Ashley Tattersall                    | 
-|                                     | Samual Lloyd                         | 
+|                                     | Samuel Lloyd                         | 
 | **Konkoly Observatory, Hungary**    | Benoit Côté                          | 
 |                                     | Jacqueline den Hartogh               | 
 | **Chinese Academy of Sciences, CN** | Suqing Hou                           | 
