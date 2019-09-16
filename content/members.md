@@ -25,13 +25,12 @@ collaboration rules.
 | ---:                                | :---                                 | 
 | **Keele University, UK**            | R. Hirschi (also Kavli IPMU, Japan)  | 
 |                                     | E. Kaiser                            | 
-| **University of Victoria, CA**      | F. Herwig                            | 
-|                                     | P. Denisenkov                        | 
-|                                     | O. Clarkson                          | 
-|                                     | A. Davis                             | 
-|                                     | D. Stephens                          |
-|                                     | J. McKay                             |
-|                                     | A. Paul                              |
+| **University of Victoria, CA**      | Falk Herwig                            | 
+|                                     | Pavel Denisenkov                        | 
+|                                     | Ondrea Clarkson                          | 
+|                                     | Austin Davis                             | 
+|                                     | David Stephens                          |
+|                                     | Adam Paul                              |
 | **LANL, USA**                       | C. Fryer                             | 
 |                                     | S. Jones                             | 
 |                                     | W. Even                              | 
@@ -39,7 +38,7 @@ collaboration rules.
 |                                     | S. Andrews                           | 
 | **Observatory of Torino, INAF, IT** | C. Travaglio                         | 
 |                                     | S. Bisterzo                          | 
-| **University of Hull, UK**          | M. Pignatari                         |
+| **University of Hull, UK**          | Marco Pignatari                         |
 |                                     | Richard Stancliffe                   |
 |                                     | James Keegans                        | 
 |                                     | Thomas Lawson                        | 
@@ -100,7 +99,7 @@ collaboration rules.
 
 **Past members**<br />
 
-**University of Victoria, Canada**: Luke Siemens<br />
+**University of Victoria, Canada**: Luke Siemens, John McKay, Christian Ritter<br />
 **E.A. Milne Centre for Astrophysics, University of Hull, UK**: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk<br />
 **Basel University, Switzerland**: Isabelle van Rijs<br /> 
 **Universtaet Frankfurt, GSI, Germany**: Thien Tam Ngyuen, Paula
