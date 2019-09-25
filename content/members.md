@@ -43,7 +43,8 @@ collaboration rules.
 |                                     | James Keegans                        | 
 |                                     | Thomas Lawson                        | 
 |                                     | Thomas Trueman                       | 
-|                                     | Paul Fong                            |  
+|                                     | Paul Fong                            | 
+|                                     | Jordan.Schofield                     |
 | **Arizona State University, USA**   | F. X. Timmes                         | 
 |                                     | Ilka Petermann                       | 
 | **Göthe Universität Frankfurt, DE** | Rene Reifarth                        | 
