@@ -43,12 +43,7 @@ collaboration rules.
 |                                     | James Keegans                        | 
 |                                     | Thomas Lawson                        | 
 |                                     | Thomas Trueman                       | 
-|                                     | Paul Fong                            | 
-|                                     | Meredith Sheppard                    | 
-|                                     | Adam Cox                             | 
-|                                     | William Bruce                        | 
-|                                     | Benjamin Brooks                      |  
-|                                     | Jacob Tomassi                        | 
+|                                     | Paul Fong                            |  
 | **Arizona State University, USA**   | F. X. Timmes                         | 
 |                                     | Ilka Petermann                       | 
 | **Göthe Universität Frankfurt, DE** | Rene Reifarth                        | 
@@ -100,7 +95,7 @@ collaboration rules.
 **Past members**<br />
 
 **University of Victoria, Canada**: Luke Siemens, John McKay, Christian Ritter<br />
-**E.A. Milne Centre for Astrophysics, University of Hull, UK**: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk<br />
+**E.A. Milne Centre for Astrophysics, University of Hull, UK**: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk, Meredith Sheppard, Adam Cox, William Bruce, Benjamin Brooks, Jacob Tomassi<br />
 **Basel University, Switzerland**: Isabelle van Rijs<br /> 
 **Universtaet Frankfurt, GSI, Germany**: Thien Tam Ngyuen, Paula
 Hillmann<sup>u</sup>, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach<br />
