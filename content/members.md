@@ -44,7 +44,7 @@ collaboration rules.
 |                                     | Thomas Lawson                        | 
 |                                     | Thomas Trueman                       | 
 |                                     | Paul Fong                            | 
-|                                     | Jordan.Schofield                     |
+|                                     | Jordan Schofield                     |
 | **Arizona State University, USA**   | F. X. Timmes                         | 
 |                                     | Ilka Petermann                       | 
 | **Göthe Universität Frankfurt, DE** | Rene Reifarth                        | 
