@@ -49,8 +49,7 @@ collaboration rules.
 |                                     | Ilka Petermann                       | 
 | **Göthe Universität Frankfurt, DE** | Rene Reifarth                        | 
 |                                     | Kathrin Göbel                        | 
-|                                     | Deniz Kurtulgil                      | 
-|                                     | Christoph Köppchen                   | 
+|                                     | Deniz Kurtulgil                      |  
 | **TRIUMF, CA**                      | Chris Ruiz                           | 
 |                                     | Barry Davids                         | 
 | **Monash University, AU**           | Alexander Heger (SJTU, CN; UMN, USA) | 
@@ -98,8 +97,7 @@ collaboration rules.
 **University of Victoria, Canada**: Luke Siemens, John McKay, Christian Ritter<br />
 **E.A. Milne Centre for Astrophysics, University of Hull, UK**: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk, Meredith Sheppard, Adam Cox, William Bruce, Benjamin Brooks, Jacob Tomassi<br />
 **Basel University, Switzerland**: Isabelle van Rijs<br /> 
-**Universtaet Frankfurt, GSI, Germany**: Thien Tam Ngyuen, Paula
-Hillmann<sup>u</sup>, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach<br />
+**Universtaet Frankfurt, GSI, Germany**: Thien Tam Ngyuen, Paula Hillmann<sup>u</sup>, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach, Christoph Köppchen<br />
 **Arizona State University, USA**: Eric Deleeuw, P. A. Young<br />
 **Michigan State University, USA**: Ulrike Hager, Richard Cyburt<br />
 **ANU, Australia**: Aaron Dotter<br />
