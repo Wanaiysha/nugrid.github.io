@@ -10,10 +10,13 @@ templates and GUI based access options. There is also a cyberhub
 application that allows you to run the MESA stellar evolution code.
 
 WENDI It is a jupyter based platform and you just need a github
-account to login. If you just want to explore try WENDI1. If you would
-like to perform a longer-term research project or a training session
-with WENDI please contact Falk Herwig so that we can ensure stable
-access and storage, maybe to one of the backup servers.
+account to login. If you would like to perform a longer-term 
+research project or a training session with WENDI please contact 
+Falk Herwig so that we can ensure stable access and storage, maybe 
+to one of the backup servers.
+
+To gain access to WENDI please contact the membership administrator 
+with your GitHub username so you can be added to the server.
 
 * [WENDI1](): 
 	- Status: down; transfer to new cloud
@@ -25,7 +28,7 @@ access and storage, maybe to one of the backup servers.
 	* Backup server. 
 	* Status: offline.
 
-* [WENDI3](https://206-12-91-2.cloud.computecanada.ca/wendi2): 	
+* [NuGrid WENDI](https://astrohub.uvic.ca/wendi2/): 	
         - Status: Running. 
 	- Hardware: cloud server 16 VCPUs, 120GB memory.
 	- Access only for NuGrid members.
