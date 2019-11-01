@@ -24,10 +24,6 @@ with your GitHub username so you can be added to the server.
 	- Main public server. Login with your github ID. 
 	- Instances older than 12hrs or instances consuming excessive resources maybe killed.
 
-* [WENDI2](): 
-	* Backup server. 
-	* Status: offline.
-
 * [NuGrid WENDI](https://astrohub.uvic.ca/wendi2/): 	
         - Status: Running. 
 	- Hardware: cloud server 16 VCPUs, 120GB memory.
