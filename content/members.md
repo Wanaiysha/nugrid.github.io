@@ -75,7 +75,9 @@ collaboration rules.
 | **TU Munich, Germany**              | Shawn Bishop                         | 
 | **San Diego State University, USA** | Calvin Johnson                       | 
 | **CSIC-University of Valencia**     | Cesar Domingo-Pardo                  | 
-|                                     | Victor Babiano-Suarez                | 
+|                                     | Victor Babiano-Suarez                |
+|                                     | Javier Balibrea Correa               |
+|                                     | Jorge Lerendegui                     |
 | **UPC-Barcelona, Spain**            | Adria Casanovas-Hoste                | 
 | **LLNL, USA**                       | Reto Trappitsch                      | 
 | **TU Darmstadt, Germany**           | Heiko Möller                         | 
