@@ -46,7 +46,8 @@ collaboration rules.
 |                                     | Paul Fong                            | 
 |                                     | Jordan Schofield                     |
 | **Arizona State University, USA**   | F. X. Timmes                         | 
-|                                     | Ilka Petermann                       | 
+|                                     | Ilka Petermann                       |
+|                                     | Morgan Taylor                        |
 | **Göthe Universität Frankfurt, DE** | Rene Reifarth                        | 
 |                                     | Kathrin Göbel                        | 
 |                                     | Deniz Kurtulgil                      |  
