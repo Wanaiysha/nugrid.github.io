@@ -25,20 +25,19 @@ collaboration rules.
 | ---:                                | :---                                 | 
 | **Keele University, UK**            | R. Hirschi (also Kavli IPMU, Japan)  | 
 |                                     | E. Kaiser                            | 
-| **University of Victoria, CA**      | Falk Herwig                            | 
-|                                     | Pavel Denisenkov                        | 
-|                                     | Ondrea Clarkson                          | 
-|                                     | Austin Davis                             | 
-|                                     | David Stephens                          |
-|                                     | Adam Paul                              |
+| **University of Victoria, CA**      | Falk Herwig                          | 
+|                                     | Pavel Denisenkov                     | 
+|                                     | Ondrea Clarkson                      | 
+|                                     | Austin Davis                         | 
+|                                     | David Stephens                       |
+|                                     | Adam Paul                            |
 | **LANL, USA**                       | C. Fryer                             | 
 |                                     | S. Jones                             | 
 |                                     | W. Even                              | 
 |                                     | A. Couture                           | 
 |                                     | S. Andrews                           | 
-| **Observatory of Torino, INAF, IT** | C. Travaglio                         | 
-|                                     | S. Bisterzo                          | 
-| **University of Hull, UK**          | Marco Pignatari                         |
+| **Observatory of Torino, INAF, IT** | C. Travaglio                         |  
+| **University of Hull, UK**          | Marco Pignatari                      |
 |                                     | Richard Stancliffe                   |
 |                                     | James Keegans                        | 
 |                                     | Thomas Lawson                        | 
@@ -48,30 +47,21 @@ collaboration rules.
 | **Arizona State University, USA**   | F. X. Timmes                         | 
 |                                     | Ilka Petermann                       |
 |                                     | Morgan Taylor                        |
+|                                     | Ebraheem Farag                       |
 | **Göthe Universität Frankfurt, DE** | Rene Reifarth                        | 
 |                                     | Kathrin Göbel                        | 
 |                                     | Deniz Kurtulgil                      |  
 | **TRIUMF, CA**                      | Chris Ruiz                           | 
 |                                     | Barry Davids                         | 
-| **Monash University, AU**           | Alexander Heger (SJTU, CN; UMN, USA) | 
-|                                     | Athira Menon                         | 
+| **Monash University, AU**           | Alexander Heger (SJTU, CN; UMN, USA) |  
 |                                     | James Grimmett                       | 
 | **University of Chicago, USA**      | Jim Truran                           | 
 |                                     | Claudio Ugalde                       | 
 | **Michigan State University, USA**  | Hendrik Schatz                       | 
 |                                     | Carl Fields                          | 
 | **University of York, UK**          | Alison Laird                         | 
-|                                     | Joscelyn Riley                       | 
-|                                     | Nic Hubbard                          | 
-|                                     | Chloe McElvaney                      | 
-|                                     | Josh Duncan                          | 
-|                                     | Emma Bendall                         | 
-|                                     | Ben Griffiths                        | 
-|                                     | Lewis Jones                          | 
-|                                     | Ben Shaw                             | 
 | **ORNL, USA**                       | Michael Bertolli                     | 
-| **University of Alabama, USA**      | Dean Townsley                        | 
-|                                     | Broxton Miles                        | 
+| **University of Alabama, USA**      | Dean Townsley                        |  
 | **SUNY Stony Brook, USA**           | Alan Calder                          | 
 | **TU Munich, Germany**              | Shawn Bishop                         | 
 | **San Diego State University, USA** | Calvin Johnson                       | 
@@ -81,7 +71,6 @@ collaboration rules.
 |                                     | Jorge Lerendegui                     |
 | **UPC-Barcelona, Spain**            | Adria Casanovas-Hoste                | 
 | **LLNL, USA**                       | Reto Trappitsch                      | 
-| **TU Darmstadt, Germany**           | Heiko Möller                         | 
 | **University of Edinburgh, UK**     | Claudia Lederer-Woods                | 
 |                                     | Umberto Battino                      | 
 |                                     | Ashley Tattersall                    | 
@@ -108,3 +97,9 @@ collaboration rules.
 Notre Dame, USA: M. Beard, Kiana Setoodehnia, G. Magkotsios<br />
 **Keele University, UK**: N. Nishimura, C. Georgy, A. Kozyreva, M. Bennett<br />
 **University of Sevilla, Institut de Fisica Corpuscolar of Valencia, Spain**: Pablo Gramage Iglesias, Carlos Guerrero, Jorge Lerendegui Marc<br />
+**Observatory of Torino, INAF, IT**: S. Bisterzo<br />
+**University of York, UK**:Joscelyn Riley,Nic Hubbard,Chloe McElvaney,Josh Duncan,Emma Bendall,Ben Griffiths,Lewis Jones,Ben Shaw<br />
+**Monash University, AU**:Athira Menon<br />
+**University of Alabama, USA**:Broxton Miles<br />
+**TU Darmstadt, Germany**:Heiko Möller<br /> 
+
