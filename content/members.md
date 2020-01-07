@@ -55,16 +55,11 @@ collaboration rules.
 |                                     | Barry Davids                         | 
 | **Monash University, AU**           | Alexander Heger (SJTU, CN; UMN, USA) |  
 |                                     | James Grimmett                       | 
-| **University of Chicago, USA**      | Jim Truran                           | 
-|                                     | Claudio Ugalde                       | 
 | **Michigan State University, USA**  | Hendrik Schatz                       | 
-|                                     | Carl Fields                          | 
 | **University of York, UK**          | Alison Laird                         | 
 | **ORNL, USA**                       | Michael Bertolli                     | 
 | **University of Alabama, USA**      | Dean Townsley                        |  
 | **SUNY Stony Brook, USA**           | Alan Calder                          | 
-| **TU Munich, Germany**              | Shawn Bishop                         | 
-| **San Diego State University, USA** | Calvin Johnson                       | 
 | **CSIC-University of Valencia**     | Cesar Domingo-Pardo                  | 
 |                                     | Victor Babiano-Suarez                |
 |                                     | Javier Balibrea Correa               |
@@ -91,7 +86,7 @@ collaboration rules.
 **Basel University, Switzerland**: Isabelle van Rijs<br /> 
 **Universtaet Frankfurt, GSI, Germany**: Thien Tam Ngyuen, Paula Hillmann<sup>u</sup>, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach, Christoph Köppchen<br />
 **Arizona State University, USA**: Eric Deleeuw, P. A. Young<br />
-**Michigan State University, USA**: Ulrike Hager, Richard Cyburt<br />
+**Michigan State University, USA**: Ulrike Hager, Richard Cyburt, Carl Fields<br />
 **ANU, Australia**: Aaron Dotter<br />
 **Louisiana State Universtiy USA**: Geoff Clayton, Kundam Kadam, Ischelle Martin<br />
 Notre Dame, USA: M. Beard, Kiana Setoodehnia, G. Magkotsios<br />
@@ -102,4 +97,7 @@ Notre Dame, USA: M. Beard, Kiana Setoodehnia, G. Magkotsios<br />
 **Monash University, AU**:Athira Menon<br />
 **University of Alabama, USA**:Broxton Miles<br />
 **TU Darmstadt, Germany**:Heiko Möller<br /> 
+**University of Chicago, USA**: Jim Truran, Claudio Ugalde<br />
+**TU Munich, Germany**: Shawn Bishop<br /> 
+**San Diego State University, USA**: Calvin Johnson<br /> 
 
