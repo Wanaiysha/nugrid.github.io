@@ -84,7 +84,7 @@ collaboration rules.
 **University of Victoria, Canada**: Luke Siemens, John McKay, Christian Ritter<br />
 **E.A. Milne Centre for Astrophysics, University of Hull, UK**: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk, Meredith Sheppard, Adam Cox, William Bruce, Benjamin Brooks, Jacob Tomassi<br />
 **Basel University, Switzerland**: Isabelle van Rijs<br /> 
-**Universtaet Frankfurt, GSI, Germany**: Thien Tam Ngyuen, Paula Hillmann<sup>u</sup>, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach, Christoph Köppchen<br />
+**Universtaet Frankfurt, GSI, Germany**: Thien Tam Ngyuen, Paula Hillmann, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach, Christoph Köppchen<br />
 **Arizona State University, USA**: Eric Deleeuw, P. A. Young<br />
 **Michigan State University, USA**: Ulrike Hager, Richard Cyburt, Carl Fields<br />
 **ANU, Australia**: Aaron Dotter<br />
@@ -93,7 +93,7 @@ Notre Dame, USA: M. Beard, Kiana Setoodehnia, G. Magkotsios<br />
 **Keele University, UK**: N. Nishimura, C. Georgy, A. Kozyreva, M. Bennett<br />
 **University of Sevilla, Institut de Fisica Corpuscolar of Valencia, Spain**: Pablo Gramage Iglesias, Carlos Guerrero, Jorge Lerendegui Marc<br />
 **Observatory of Torino, INAF, IT**: S. Bisterzo<br />
-**University of York, UK**:Joscelyn Riley,Nic Hubbard,Chloe McElvaney,Josh Duncan,Emma Bendall,Ben Griffiths,Lewis Jones,Ben Shaw<br />
+**University of York, UK**:Joscelyn Riley, Nic Hubbard, Chloe McElvaney, Josh Duncan, Emma Bendall, Ben Griffiths, Lewis Jones, Ben Shaw<br />
 **Monash University, AU**:Athira Menon<br />
 **University of Alabama, USA**:Broxton Miles<br />
 **TU Darmstadt, Germany**:Heiko Möller<br /> 
