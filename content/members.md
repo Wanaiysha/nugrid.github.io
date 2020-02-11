@@ -70,7 +70,8 @@ collaboration rules.
 |                                     | Ashley Tattersall                    | 
 |                                     | Samuel Lloyd                         | 
 | **Konkoly Observatory, Hungary**    | Benoit Côté                          | 
-|                                     | Jacqueline den Hartogh               | 
+|                                     | Jacqueline den Hartogh               |
+|                                     | Andrés Yagüe López                   |
 | **Chinese Academy of Sciences, CN** | Suqing Hou                           | 
 | **McMaster University, Canada**     | Alan Chen                            | 
 |                                     | Athanasios Psaltis                   | 
