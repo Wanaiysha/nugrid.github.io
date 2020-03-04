@@ -17,7 +17,7 @@ collaboration rules.
 ### Points of contact
 
 |Project coordinator | [Marco Pignatari](mailto:mpignatari@gmail.com) |
-|Membership administrator| [Ashley Tattersall](mailto:ashley.tattersall@ed.ac.uk) |
+|Membership administrator| [Etienne Kaiser](mailto:e.kaiser@keele.ac.uk) |
 
 ### Members
 
