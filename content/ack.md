@@ -2,8 +2,8 @@
 
 NuGrid acknowledges support from NSF grants PHY 02-16783 and PHY 08-22648
 (Joint Institute for Nuclear Astrophysics, JINA), NSF grant PHY-1430152 (JINA
-Center for the Evolution of the Elements) , EU MIRG-CT-2006-046520 and STFC
-(through the University of Hull’s Consolidated Grant ST/R000840/1). The
+Center for the Evolution of the Elements), EU MIRG-CT-2006-046520 and STFC
+(through the University of Hull’s Consolidated Grant ST/R000840/1), and ChETEC COST Action (CA16117), supported by COST (European Cooperation in Science and Technology). The
 continued work on codes and in disseminating data is made possible through
 funding from STFC (RH, UK), an NSERC Discovery grant (FH, Canada) and support
 from SNF (MP, Switzerland). NuGrid computations are performed at the Arizona
