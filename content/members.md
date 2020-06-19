@@ -75,7 +75,7 @@ collaboration rules.
 |                                     | Andrés Yagüe López                   |
 | **Chinese Academy of Sciences, CN** | Suqing Hou                           | 
 | **McMaster University, Canada**     | Alan Chen                            | 
-|                                     | Athanasios Psaltis                   | 
+|                                     | Thanassis Psaltis                    | 
 |                                     | Liam Kroll                           |
 | **MPI for Intelligent Systems**     | Jean-Claude Passy                    |
 | **Texas A&M**                       | Shuya Ota                            |
