@@ -64,7 +64,8 @@ collaboration rules.
 |                                     | Victor Babiano-Suarez                |
 |                                     | Javier Balibrea Correa               |
 |                                     | Jorge Lerendegui                     |
-| **UPC-Barcelona, Spain**            | Adria Casanovas-Hoste                | 
+| **UPC-Barcelona, Spain**            | Adria Casanovas-Hoste                |
+| **Brandeis University, USA**        | Reto Trappitsch                      | 
 | **University of Edinburgh, UK**     | Claudia Lederer-Woods                | 
 |                                     | Umberto Battino                      | 
 |                                     | Ashley Tattersall                    | 
