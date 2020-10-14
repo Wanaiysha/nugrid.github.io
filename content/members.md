@@ -44,6 +44,11 @@ collaboration rules.
 |                                     | Thomas Trueman                       | 
 |                                     | Paul Fong                            | 
 |                                     | Jordan Schofield                     |
+|                                     | Kate Womack                          |
+|                                     | George Harvey                        |
+|                                     | William Logan                        |
+|                                     | Stephane Trouille                    |
+|                                     | William Wrathall                     |
 | **Arizona State University, USA**   | F. X. Timmes                         | 
 |                                     | Ilka Petermann                       |
 |                                     | Morgan Taylor                        |
