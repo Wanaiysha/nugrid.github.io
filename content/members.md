@@ -36,7 +36,7 @@ collaboration rules.
 |                                     | W. Even                              | 
 |                                     | A. Couture                           | 
 |                                     | S. Andrews                           | 
-|.                                    | Mark Alexander Kaltenborn            |
+|                                     | Mark Alexander Kaltenborn            |
 | **Observatory of Torino, INAF, IT** | C. Travaglio                         |  
 | **University of Hull, UK**          | Marco Pignatari                      |
 |                                     | Richard Stancliffe                   |
