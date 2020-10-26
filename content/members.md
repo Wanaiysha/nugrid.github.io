@@ -36,6 +36,7 @@ collaboration rules.
 |                                     | W. Even                              | 
 |                                     | A. Couture                           | 
 |                                     | S. Andrews                           | 
+|.                                    | Mark Alexander Kaltenborn            |
 | **Observatory of Torino, INAF, IT** | C. Travaglio                         |  
 | **University of Hull, UK**          | Marco Pignatari                      |
 |                                     | Richard Stancliffe                   |
@@ -61,7 +62,9 @@ collaboration rules.
 | **Monash University, AU**           | Alexander Heger (SJTU, CN; UMN, USA) |  
 |                                     | James Grimmett                       | 
 | **Michigan State University, USA**  | Hendrik Schatz                       | 
-| **University of York, UK**          | Alison Laird                         | 
+| **University of York, UK**          | Alison Laird                         |
+|                                     | Sophie Abrahams                      |
+|                                     | Alexander Hall-Smith                 |            
 | **ORNL, USA**                       | Michael Bertolli                     | 
 | **University of Alabama, USA**      | Dean Townsley                        |  
 | **SUNY Stony Brook, USA**           | Alan Calder                          | 
