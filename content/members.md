@@ -9,7 +9,7 @@ collaboration rules.
 
 [Umberto Battino](mailto:ubattino@staffmail.ed.ac.uk)  
 [Benoit Côté](mailto:benoit.cote@csfk.mta.hu)  
-[Jacqueline den Hartogh](mailto:jacqueline.den.hartogh@csfk.mta.hu)  
+[Jacqueline den Hartogh](mailto:jacqueline.den.hartogh@csfk.org)  
 [Falk Herwig](mailto:fherwig@uvic.ca)  
 [Alison Laird](mailto:alison.laird@york.ac.uk)  
 [Marco Pignatari](mailto:mpignatari@gmail.com)  
