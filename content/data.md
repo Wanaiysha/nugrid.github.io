@@ -71,6 +71,7 @@ Z=0.01 |<http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1/set1.1>
 
 
 **Set 1 updated directories** 
+
 Metallicity | Link
 ------------|-----
 Z=0.03 | [LINK](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.3%2F)
