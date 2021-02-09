@@ -13,8 +13,8 @@
 
 See appendix of that paper for data access details. Please go to [Set 1](data-and-software/yields/set-1) of the Yields page in the [Yields Folder](data-and-software/yields), in the Data and software item on the left menu.
 
-* [Set1upd], Battino et al. 2019 (DOI:10.1093/mnras/stz2158) and Battino et al. 2021 (DOI:10.3390/universe7020025)
-* Access via the NuGrid Globus repository (https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2F). From there, go in /data/set1upd/
+* Set1upd, Battino et al. 2019 (DOI:10.1093/mnras/stz2158) and Battino et al. 2021 (DOI:10.3390/universe7020025)
+* Access via the [NuGrid Globus repository](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2F). From there, go in /data/set1upd/
 
 ### Yields tables
 
@@ -25,7 +25,7 @@ Set 1 extension yield tables together with a README file are provided at
 <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/Yield_tables>
 
 Set 1 updated yield tables, from both Battino et al. 2019 and 2021, are provided at
-https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fyields_finalabu_tables%2F
+[https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fyields_finalabu_tables%2F](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fyields_finalabu_tables%2F)
 
 
 Documentation of how to extract table data can be found in [Analysis of
@@ -73,11 +73,11 @@ Z=0.01 |<http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1/set1.1>
 **Set 1 updated directories** 
 Metallicity | Link
 ------------|-----
-Z=0.03 | https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.3%2F
-Z=0.02 | https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.2%2F
-Z=0.01 | https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.1%2F
-Z=0.002 |https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.02%2F
-Z=0.001 |https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.01%2F
+Z=0.03 | [LINK](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.3%2F)
+Z=0.02 | [LINK](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.2%2F)
+Z=0.01 | [LINK](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.1%2F)
+Z=0.002 |[LINK](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.02%2F)
+Z=0.001 |[LINK](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fset1.01%2F)
 
 
 ### Figures
@@ -91,5 +91,5 @@ Set 1 extension | <http://www.canfar.phys.uvic.ca/vosui/#/nugrid/data/set1ext/Fi
 
 - Ritter C, Herwig F, Jones S, Pignatari M, Fryer C, Hirschi R. 2018. MNRAS. 480(1):538–71 (Set 1 ext)
 - Pignatari M, Herwig F, Hirschi R, Bennett M, Rockefeller G, et al. 2016. ASTROPHYS J SUPPL S. 225(2):24 (Set 1)
-- Battino U., Tattersall A, Lederer-Woods C., Herwig F., Denissenkov P. et al.; MNRAS, 489, 1, 2019, 1082-1098, https://doi.org/10.1093/mnras/stz2158 (Set 1 upd)
-- Battino, U.; Lederer-Woods, C.; Cseh, B.; Denissenkov, P.; Herwig, F.; Universe 2021, 7, 25. https://doi.org/10.3390/universe7020025 (Set 1 upd)
+- Battino U., Tattersall A, Lederer-Woods C., Herwig F., Denissenkov P. et al.; MNRAS, 489, 1, 2019, 1082-1098, <https://doi.org/10.1093/mnras/stz2158> (Set 1 upd)
+- Battino, U.; Lederer-Woods, C.; Cseh, B.; Denissenkov, P.; Herwig, F.; Universe 2021, 7, 25. <https://doi.org/10.3390/universe7020025> (Set 1 upd)
