@@ -13,6 +13,7 @@ collaboration rules.
 [Falk Herwig](mailto:fherwig@uvic.ca)  
 [Alison Laird](mailto:alison.laird@york.ac.uk)  
 [Marco Pignatari](mailto:mpignatari@gmail.com)  
+[Thanassis Psaltis](mailto:psaltis@theorie.ikp.physik.tu-darmstadt.de)  
 
 ### Points of contact
 
