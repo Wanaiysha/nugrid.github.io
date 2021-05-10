@@ -88,6 +88,8 @@ collaboration rules.
 |                                     | Liam Kroll                           |
 | **MPI for Intelligent Systems**     | Jean-Claude Passy                    |
 | **Texas A&M**                       | Shuya Ota                            |
+| **University of Rijeka, Croatia**   | Marina Manganaro                     |
+|                                     | Luka Božić                           |
 
 **Past members**<br />
 
