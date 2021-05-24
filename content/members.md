@@ -65,7 +65,9 @@ collaboration rules.
 | **Michigan State University, USA**  | Hendrik Schatz                       | 
 | **University of York, UK**          | Alison Laird                         |
 |                                     | Sophie Abrahams                      |
-|                                     | Alexander Hall-Smith                 |            
+|                                     | Alexander Hall-Smith                 |
+|                                     | William Rudrum.                      |
+|                                     | May Haddaj Alruwaili                 |
 | **ORNL, USA**                       | Michael Bertolli                     | 
 | **University of Alabama, USA**      | Dean Townsley                        |  
 | **SUNY Stony Brook, USA**           | Alan Calder                          | 
