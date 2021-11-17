@@ -17,7 +17,7 @@ collaboration rules.
 
 ### Points of contact
 
-|Project coordinator | [Marco Pignatari](mailto:mpignatari@gmail.com) |
+|Project coordinator | [Marco Pignatari](mailto:mpignatari@gmail.com) | 
 |Membership administrator| [Alexander Hall-Smith](mailto:ahs539@york.ac.uk) |
 
 ### Members
