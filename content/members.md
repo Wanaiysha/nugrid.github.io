@@ -38,7 +38,7 @@ collaboration rules.
 |                                     | A. Couture                           | 
 |                                     | S. Andrews                           | 
 |                                     | Mark Alexander Kaltenborn            |
-| **Observatory of Torino, INAF, IT** | C. Travaglio                         |  
+| **Observatory of Torino, INAF, IT** | C. Travaglio                         |
 | **University of Hull, UK**          | Marco Pignatari                      |
 |                                     | Richard Stancliffe                   |
 |                                     | James Keegans                        | 
@@ -59,7 +59,8 @@ collaboration rules.
 |                                     | Kathrin Göbel                        | 
 |                                     | Deniz Kurtulgil                      |  
 | **TRIUMF, CA**                      | Chris Ruiz                           | 
-|                                     | Barry Davids                         | 
+|                                     | Barry Davids                         |
+|                                     | Alex Wen                             |
 | **Monash University, AU**           | Alexander Heger (SJTU, CN; UMN, USA) |  
 |                                     | James Grimmett                       | 
 | **Michigan State University, USA**  | Hendrik Schatz                       | 
@@ -92,6 +93,7 @@ collaboration rules.
 | **Texas A&M**                       | Shuya Ota                            |
 | **University of Rijeka, Croatia**   | Marina Manganaro                     |
 |                                     | Luka Božić                           |
+| **St. Mary's University, USA**      | Amanda Edwin                         |
 
 **Past members**<br />
 
