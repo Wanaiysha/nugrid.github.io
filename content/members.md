@@ -94,6 +94,8 @@ collaboration rules.
 | **University of Rijeka, Croatia**   | Marina Manganaro                     |
 |                                     | Luka Božić                           |
 | **St. Mary's University, USA**      | Amanda Edwin                         |
+| **Jyväskylä University, Finland**   | Anu Kankainen                        |
+|                                     | Stylianos Nikas                      |
 
 **Past members**<br />
 
