@@ -90,7 +90,7 @@ collaboration rules.
 |                                     | Thanassis Psaltis                    | 
 |                                     | Liam Kroll                           |
 | **MPI for Intelligent Systems**     | Jean-Claude Passy                    |
-| **Texas A&M**                       | Shuya Ota                            |
+| **Brookhaven National Laboratory**  | Shuya Ota                            |
 | **University of Rijeka, Croatia**   | Marina Manganaro                     |
 |                                     | Luka Božić                           |
 | **St. Mary's University, USA**      | Amanda Edwin                         |
