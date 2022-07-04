@@ -26,6 +26,7 @@ collaboration rules.
 | ---:                                | :---                                 | 
 | **Keele University, UK**            | R. Hirschi (also Kavli IPMU, Japan)  | 
 |                                     | E. Kaiser                            | 
+|                                     | James Keegans
 | **University of Victoria, CA**      | Falk Herwig                          | 
 |                                     | Pavel Denisenkov                     | 
 |                                     | Ondrea Clarkson                      | 
@@ -41,7 +42,6 @@ collaboration rules.
 | **Observatory of Torino, INAF, IT** | C. Travaglio                         |
 | **University of Hull, UK**          | Marco Pignatari                      |
 |                                     | Richard Stancliffe                   |
-|                                     | James Keegans                        | 
 |                                     | Thomas Lawson                        | 
 |                                     | Thomas Trueman                       | 
 |                                     | Paul Fong                            | 
