@@ -27,7 +27,6 @@ collaboration rules.
 | **University of Victoria, CA**      | Falk Herwig                          | 
 |                                     | Pavel Denisenkov                     | 
 |                                     | Austin Davis                         | 
-|                                     | Adam Paul                            |
 |                                     | Kai Phosy                            |
 | **LANL, USA**                       | C. Fryer                             | 
 |                                     | Andrés Yagüe López                   |
@@ -90,7 +89,7 @@ collaboration rules.
 
 **Past members**<br />
 
-**University of Victoria, Canada**: Luke Siemens, John McKay, Christian Ritter, David Stephens, Ondrea Clarkson <br />
+**University of Victoria, Canada**: Luke Siemens, John McKay, Christian Ritter, David Stephens, Ondrea Clarkson, Adam Paul <br />
 **E.A. Milne Centre for Astrophysics, University of Hull, UK**: Jacob Brazier, Katherine Hall, Jasmine Stainton, Emilio Cuandu, Callum Silk, Meredith Sheppard, Adam Cox, William Bruce, Benjamin Brooks, Jacob Tomassi, William Logan, George Harvey, Stephane Trouille, William Wrathall, Richard Stancliffe, Jordan Schofield  <br />
 **Basel University, Switzerland**: Isabelle van Rijs<br /> 
 **Universtaet Frankfurt, GSI, Germany**: Thien Tam Ngyuen, Paula Hillmann, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach, Christoph Köppchen<br />
