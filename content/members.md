@@ -58,6 +58,7 @@ collaboration rules.
 |                                     | William Rudrum.                      |
 |                                     | May Haddaj Alruwaili                 |
 | **ORNL, USA**                       | Michael Bertolli                     | 
+| **ANL, TechTrans Int., USA**        | Benoit Côté                          | 
 | **University of Alabama, USA**      | Dean Townsley                        |  
 | **SUNY Stony Brook, USA**           | Alan Calder                          | 
 | **CSIC-University of Valencia**     | Cesar Domingo-Pardo                  | 
@@ -71,7 +72,6 @@ collaboration rules.
 |                                     | Samuel Lloyd                         | 
 | **Konkoly Observatory, Hungary**    | Marco Pignatari                      | 
 |                                     | Lorenzo Roberti                      |
-|                                     | Benoit Côté                          | 
 | **Chinese Academy of Sciences, CN** | Suqing Hou                           | 
 | **McMaster University, Canada**     | Alan Chen                            | 
 |                                     | Thanassis Psaltis                    | 
