@@ -11,6 +11,7 @@ collaboration rules.
 [Alison Laird](mailto:alison.laird@york.ac.uk)  
 [Marco Pignatari](mailto:mpignatari@gmail.com)  
 [Thanassis Psaltis](mailto:psaltis@theorie.ikp.physik.tu-darmstadt.de)  
+[Pavel Denissenkov] (mailto:pavelden@uvic.ca)
 
 ### Points of contact
 
