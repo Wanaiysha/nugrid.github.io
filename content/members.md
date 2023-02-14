@@ -87,6 +87,7 @@ collaboration rules.
 |                                     | Stylianos Nikas                      |
 | **EPFL, Switzerland**               | Reto Trappitsch                      | 
 | **TU Darmstadt, Germany**           | Thanassis Psaltis                    | 
+| **University of Surrey**            | Natalie Rees                         |
 
 **Past members**<br />
 
