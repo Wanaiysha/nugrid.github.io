@@ -29,6 +29,8 @@ collaboration rules.
 |                                     | Pavel Denisenkov                     | 
 |                                     | Austin Davis                         | 
 |                                     | Kai Phosy                            |
+|                                     | Parth Vats                           |
+|                                     | Mallory Loria                        |
 | **LANL, USA**                       | C. Fryer                             | 
 |                                     | Andrés Yagüe López                   |
 |                                     | W. Even                              | 
