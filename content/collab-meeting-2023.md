@@ -38,6 +38,8 @@ Follow this [link](https://forms.gle/UwFPGTPZFNntnT4L7) to sign up to the event 
 ---
 ## Program
 
+*All times are listed in EST (+6 for CET, +5 for BST and -3 for PST)*
+
 | Time          | Name                      | Title                                                                                                               |   |
 |---------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|---|
 | 8:30 - 9:00         | M. Pignatari              | "Welcome and NuGrid introduction"                                                                                   |   |
@@ -47,8 +49,6 @@ Follow this [link](https://forms.gle/UwFPGTPZFNntnT4L7) to sign up to the event 
 | 10:15 - 10:45         | S. Dellmann (U Frankfurt) | "Proton capture on stored radioactive ions"                                                                         |   |
 | 10:45 - 10:15        | U. Battino (U Hull)       | "Impact of newly measured 26Al(n, p)26Mg and 26Al(n, α)23Na reaction rates on the nucleosynthesis of 26Al in stars" |   |
 | 11:15 - 11:45        | T. Psaltis (NCSU/TUNL)    | "Concluding remarks and general discussion"                                                                         |   |
-
----
 
 IReNA workshops and conferences are community events intended for networking
 and collaboration as well as learning. We value the participation of every
