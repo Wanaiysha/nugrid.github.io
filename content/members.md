@@ -77,7 +77,6 @@ collaboration rules.
 |                                     | Lorenzo Roberti                      |
 | **Chinese Academy of Sciences, CN** | Suqing Hou                           | 
 | **McMaster University, Canada**     | Alan Chen                            | 
-|                                     | Thanassis Psaltis                    | 
 |                                     | Liam Kroll                           |
 | **MPI for Intelligent Systems**     | Jean-Claude Passy                    |
 | **Brookhaven National Laboratory**  | Shuya Ota                            |

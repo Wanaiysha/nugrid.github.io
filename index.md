@@ -8,9 +8,10 @@ sets of quiescent and explosive nuclear production environments.
 
 ### Site Navigation
 
- | :---:                                               | :---:                           | 
- | [Science Goals and Approach](content/science_goals) | [Data Releases](content/data)   | 
- | [Research Areas](content/research_areas)            | [Members](content/members)      | 
- | [Codes/Facilities](content/codes_collab)            | [NuGrid Documentation](content/NuGridDoc/NuGridDoc_index.md) | 
+ | :---:                                               | :---:                           |
+ | [Science Goals and Approach](content/science_goals) | [Data Releases](content/data)   |
+ | [Research Areas](content/research_areas)            | [Members](content/members)      |
+ | [Codes/Facilities](content/codes_collab)            | [NuGrid Documentation](content/NuGridDoc/NuGridDoc_index.md) |
  | [WENDI](content/wendi)  | [Acknowledgements](content/ack)           |
  | [NuGrid for members (need to be logged in NuGrid GitHub)](https://github.com/NuGrid/NuGrid-for-Members) | [Manifesto](content/manifesto) |
+|  [NuGrid Collaboration Meeting 2023](content/collab-meeting-2023) |     |
