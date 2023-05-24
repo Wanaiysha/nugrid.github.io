@@ -10,7 +10,7 @@ NuGrid collaboration and establish further connections and collaborations with
 interested groups.
 
 
-*This event is supported by IReNA, the International Research Network for
+*This event is supported by [IReNA](https://www.irenaweb.org/), the International Research Network for
 Nuclear Astrophysics. IReNA is a US National Science Foundation AccelNet
 Network of Networks. It connects six interdisciplinary research networks
 across 17 countries to foster collaboration, complement and enhance research 
@@ -43,7 +43,7 @@ Follow this [link](https://forms.gle/UwFPGTPZFNntnT4L7) to sign up to the event 
 | Time          | Name                      | Title                                                                                                               |   |
 |---------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|---|
 | 8:30 - 9:00         | M. Pignatari              | "Welcome and NuGrid introduction"                                                                                   |   |
-| 9:00 - 9:30         | A. Champagne (UNC/TUNL)   | "LENA updates"                                                                                                      |   |
+| 9:00 - 9:30         | A. Champagne (UNC/TUNL)   | "LENA II: a New Facility for Nuclear Astrophysics"                                                                                                      |   |
 | 9:30 - 10:00      | K. Womack (U Hull)        | "Chemical Evolution of Fluorine in the Milky Way"                                                                   |   |
 | 10:00 - 10:15 | Break                     |                                                                                                                     |   |
 | 10:15 - 10:45         | S. Dellmann (U Frankfurt) | "Proton capture on stored radioactive ions"                                                                         |   |
