@@ -17,7 +17,7 @@ NuGrid data are publically available (see below), and can be analyzed online via
 | Yield tables   | [Globus](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1%2FYield_tables%2F)  | [Webpage](https://download1.nugridstars.org/set1/Yield_tables/)
 | Root directory | [Globus](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1%2F)  | [Webpage](https://download1.nugridstars.org/set1/)
 
-| Set1ext        |            | | | 
+| Set1ext        |            | | 
 |----------------|------------|------------|----|
 | Z = 0.02       | [Globus](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1ext%2Fset1.2%2F)  | [Webpage](https://download1.nugridstars.org/set1ext/set1.2/)  
 | Z = 0.01       | [Globus](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1ext%2Fset1.1%2F)  | [Webpage](https://download1.nugridstars.org/set1ext/set1.1/)  
