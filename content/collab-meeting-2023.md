@@ -28,17 +28,24 @@ Follow this [link](https://forms.gle/UwFPGTPZFNntnT4L7) to sign up to the event 
 
 - Umberto Battino (U of Hull)
 - Art Champagne (UNC/TUNL)
+- Tom Clegg (UNC/TUNL)
 - Sophia Dellmann (U of Frankfurt)
+- Ruoyu Fang (Notre Dame)
 - Alex Hall-Smith (U of York)
 - James Keegans (Keele U)
+- Marina Manganaro (University of Rijeka)
+- Nobuya Nishimura (RIKEN)
 - Marco Pignatari (Konkoly Observatory)
 - Thanassis Psaltis (TUNL/NCSU)
+- Natalie Rees (U of Surrey)
+- Andrea Richard (LLNL)
+- Ragandeep Singh Sidhu (U of Edinburgh)
 - Kate Womack (U of Hull)
 
 ---
 ## Program
 
-*All times are listed in EST (+6 for CET, +5 for BST and -3 for PST)*
+*All times are listed in EDT (+6 for CEST, +5 for BST and -3 for PDT)*
 
 | Time          | Name                      | Title                                                                                                               |   |
 |---------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|---|
