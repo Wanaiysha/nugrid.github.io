@@ -2,9 +2,13 @@
 
 ## Overview of available models
 
-* **Set1** ([Pignatari et al. 2016](http://adsabs.harvard.edu/abs/2016ApJS..225...24P)). AGB and massive stars for metallicities Z = 0.02,  0.01.
-* **Set1ext** ([Ritter et al. 2018](http://adsabs.harvard.edu/abs/2018MNRAS.480..538R)). Extension of Set1. New Z = 0.006, 0.001, 0.0001. New masses at all metallicities. All models computed with MESA.
-* **Set1upd** ([Battino et al. 2019](https://academic.oup.com/mnras/article/489/1/1082/5552141), [Battino et al. 2021](https://www.mdpi.com/2218-1997/7/2/25)). Update for low-mass AGB models (M = 2 and 3 Msun) for existing metallicities (Z = 0.02, 0.01, 0.001) and new metallicities (Z = 0.03, 0.002).
+* **Set1** ([Pignatari *et al.* (2016)](http://adsabs.harvard.edu/abs/2016ApJS..225...24P)). AGB and massive stars for metallicities Z = 0.02,  0.01.
+* **Set1ext** ([Ritter *et al.* (2018)](http://adsabs.harvard.edu/abs/2018MNRAS.480..538R)). Extension of Set1. New Z = 0.006, 0.001, 0.0001. New masses at all metallicities. All models computed with MESA.
+* **Set1upd** ([Battino *et al.* (2019)](https://academic.oup.com/mnras/article/489/1/1082/5552141), [Battino et al. 2021](https://www.mdpi.com/2218-1997/7/2/25)). Update for low-mass AGB models (M = 2 and 3 Msun) for existing metallicities (Z = 0.02, 0.01, 0.001) and new metallicities (Z = 0.03, 0.002).
+* **super-AGB** ([Jones *et al.*
+  (2016)](https://doi.org/10.1093/mnras/stv2488)), super-AGB evolution with H
+  ingestion into the He-burning convection zones.
+
 
 ## Data access
 
@@ -37,7 +41,7 @@ NuGrid data are publically available (see below), and can be analyzed online via
 | Yield tables   | [Globus](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2Fyields_finalabu_tables%2F)  | [Webpage](https://download1.nugridstars.org/set1upd/yields_finalabu_tables/)
 | Root directory | [Globus](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2Fset1upd%2F)  | [Webpage](https://download1.nugridstars.org/set1upd/)
 
-**Nomenclature.** In each metallicity directory, data are organized as follows.
+**Nomenclature** In each metallicity directory, data are organized as follows.
 
    Sub-directory | Data
    ----------|------------
@@ -47,3 +51,8 @@ NuGrid data are publically available (see below), and can be analyzed online via
   ppd\_exp   | Post-processing data of see\_exp
   
 Sub-directories ending with *yemcut* include data where the remnant mass (mass-cut) of massive star models were defined using the Ye value.
+
+| super-AGB |                                                              |
+|-----------|--------------------------------------------------------------|
+|[Globus](https://app.globus.org/file-manager?origin_id=13897778-9894-11ea-b3c4-0ae144191ee3&origin_path=%2Fdata%2F) | [Webpage](https://download1.nugridstars.org/sagb_jones2016/) |
+
