@@ -89,6 +89,9 @@ collaboration rules.
 | **EPFL, Switzerland**               | Reto Trappitsch                      | 
 | **TU Darmstadt, Germany**           | Thanassis Psaltis                    | 
 | **University of Surrey**            | Natalie Rees                         |
+| **University of Lisbon**            | Margarida Paulino                    |
+|                                     | Margarida Paulino                    |
+|                                     | Margarida Paulino                    |
 
 **Past members**<br />
 
