@@ -27,8 +27,6 @@ collaboration rules.
 |                                     | James Keegans
 | **University of Victoria, CA**      | Falk Herwig                          | 
 |                                     | Pavel Denisenkov                     | 
-|                                     | Austin Davis                         | 
-|                                     | Kai Phosy                            |
 |                                     | Parth Vats                           |
 |                                     | Mallory Loria                        |
 | **LANL, USA**                       | C. Fryer                             | 
