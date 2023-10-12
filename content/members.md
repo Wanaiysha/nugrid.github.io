@@ -31,6 +31,7 @@ collaboration rules.
 |                                     | Mallory Loria                        |
 | **LANL, USA**                       | C. Fryer                             | 
 |                                     | Andrés Yagüe López                   |
+|                                     | S. Jones                             |
 |                                     | W. Even                              | 
 |                                     | A. Couture                           | 
 |                                     | S. Andrews                           | 
@@ -98,7 +99,6 @@ collaboration rules.
 **Basel University, Switzerland**: Isabelle van Rijs<br /> 
 **Universtaet Frankfurt, GSI, Germany**: Thien Tam Ngyuen, Paula Hillmann, Alexander Koloczek, Benedikt Thomas, Tanja Heftrich,Tanja Kausch, Rene Schach, Christoph Köppchen<br />
 **Arizona State University, USA**: Eric Deleeuw, P. A. Young, Ilka Petermann <br />
-**LANL, USA**: S. Jones <br />
 **Michigan State University, USA**: Ulrike Hager, Richard Cyburt, Carl Fields<br />
 **ANU, Australia**: Aaron Dotter<br />
 **Louisiana State Universtiy USA**: Geoff Clayton, Kundam Kadam, Ischelle Martin<br />
