@@ -29,6 +29,8 @@ collaboration rules.
 |                                     | Pavel Denisenkov                     | 
 |                                     | Parth Vats                           |
 |                                     | Mallory Loria                        |
+|                                     | Joshua Issa                          |
+|                                     | Maeve Cockshutt                      |
 | **LANL, USA**                       | C. Fryer                             | 
 |                                     | Andrés Yagüe López                   |
 |                                     | S. Jones                             |
