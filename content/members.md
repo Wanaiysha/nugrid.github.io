@@ -27,7 +27,7 @@ collaboration rules.
 |                                     | James Keegans
 | **University of Victoria, CA**      | Falk Herwig                          | 
 |                                     | Pavel Denisenkov                     | 
-|                                     | Parth Vats                           |
+|                                     | Praneet Pathak                           |
 |                                     | Mallory Loria                        |
 |                                     | Joshua Issa                          |
 |                                     | Maeve Cockshutt                      |
@@ -47,7 +47,7 @@ collaboration rules.
 | **Arizona State University, USA**   | F.X. Timmes                          | 
 |                                     | Morgan Taylor                        |
 |                                     | Ebraheem Farag                       |
-| **Göthe Universität Frankfurt, DE** | Rene Reifarth                        | 
+| **Goethe-Universität Frankfurt, DE** | Rene Reifarth                        | 
 |                                     | Kathrin Göbel                        | 
 |                                     | Deniz Kurtulgil                      |  
 | **TRIUMF, CA**                      | Chris Ruiz                           | 
