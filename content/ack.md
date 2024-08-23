@@ -25,4 +25,4 @@ and funding from the European Research Council under the European Union's
 Seventh Framework Programme (FP/2007-2013) / ERC Grant Agreement n. 306901.
 TP acknowledges support from the Deutsche Forschungsgemeinschaft 
 (DFG, German Research Foundation)-Project No. 279384907-SFB 1245, and the 
-State of Hesse within the Research Cluster ELEMENTS (Project ID 500/10.006).
+State of Hesse within the Research Cluster ELEMENTS (Project ID 500/10.006). NuGrid research has used the Astrohub online virtual research environment (https://astrohub.uvic.ca), developed and operated by the Computational Stellar Astrophysics group (http://csa.phys.uvic.ca) at the University of Victoria and hosted on the Computed Canada Arbutus Cloud at the University of Victoria.
