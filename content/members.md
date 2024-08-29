@@ -74,6 +74,7 @@ collaboration rules.
 | **University of Edinburgh, UK**     | Claudia Lederer-Woods                | 
 |                                     | Ashley Tattersall                    | 
 |                                     | Samuel Lloyd                         | 
+|                                     | Wan Aishah Wan Harun                 | 
 | **Konkoly Observatory, Hungary**    | Marco Pignatari                      | 
 |                                     | Lorenzo Roberti                      |
 | **Chinese Academy of Sciences, CN** | Suqing Hou                           | 
