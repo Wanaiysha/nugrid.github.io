@@ -43,8 +43,7 @@ Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event 
 | 11:00 - 11:25        | U. Battino (Keele)       | "Application of the ChANUREPS and OrCHESTRA Nuclear Astrophysics Databases in Stellar Nucleosynthesis Simulations" |   |
 | 11:25 - 11:40        | S. Abrahams (York)    | "Nucleosynthesis in accreting neutron star common envelopes"                                                                         |   |
 | 11:40 - 11:55        | W. Harun (Edinburgh)    | "Exploring the s-process nucleosynthesis in massive stars"                                                                         |   |
-| 11:55 - 12:10        | L. Roberti (Budapest)    | "Nucleosynthesis in accreting neutron star common envelopes"                                                                         |   |
-| 11:25 - 11:40        | S. Abrahams (York)    | "Rare nuclei production in core-collapse supernovae: the γ-process nucleosynthesis"                                                                         |   |
+| 11:55 - 12:10        | L. Roberti (Budapest)    | "Rare nuclei production in core-collapse supernovae: the γ-process nucleosynthesis"                                                                         |   |
 | 12:10 - 12:30        | S. Ota (BNL)    | "Closing remarks and wishlist for nuclear astrophysics"                                                                         |   |
 | 13:30 - 15:30        |     | "Q&A with students: questions and solutions for OMEGA and TINA computational experiments"                                                                          |   |
 
@@ -122,6 +121,7 @@ Sign-up details will be provided October 16, and the program will commence on Oc
 For more information on the computational tools and detailed instructions, please visit:
 - [Networkschool-tina](HTTPS://GITHUB.COM/NUGRID/NETWORKSCHOOL-TINA/TREE/MAIN)
 - [CaNPAN project](HTTPS://CANPAN.CA/INDEX.HTML)
+
 This training program offers a unique opportunity to gain hands-on experience with cutting-edge
 computational tools in nuclear astrophysics. Participants will contribute to ongoing research efforts and
 develop skills valuable for future work in the field.
