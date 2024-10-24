@@ -1,4 +1,4 @@
-# NuGrid/IReNA/BNL day
+# NuGrid-IReNA-BNL Meeting 2024
 **Monday, December 2nd 2024 @ Brookhaven National Laboratory, NY, USA**
 
 ## Our Goals
