@@ -4,8 +4,8 @@
 ## Our Goals
 
 In the context of our annual NuGrid collaboration meeting, we are hosting a 
-half-day event with nuclear astrophysics talks, experimental and theoretical,
-open to the wider community. Our goal is to showcase recent results from the 
+full day event with nuclear astrophysics talks, experimental and theoretical,
+**open to the public**. Our goal is to showcase recent results from the 
 NuGrid collaboration and establish further connections and collaborations with
 interested groups.
 
@@ -24,7 +24,7 @@ capabilities in the US and abroad, and thus greatly accelerate progress in scien
 Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event and receive the zoom link.
 
 ---
-## Participants (to be announced)
+## Participants (TBA)
 
 ---
 ## Program
@@ -36,19 +36,22 @@ Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event 
 
 | Time          | Name                      | Title                                                                                                               |   |
 |---------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|---|
-| 8:30 - 8:45         | M. Pignatari              | "Welcome and introduction to NuGrid and IReNA"                                                                                   |   |
-| 8:45 - 9:15         | P. Denissenkov (UVic)   | "CaNPAN and international pedagogic and research activities in nuclear astrophysics
+| 8:30 - 10:30         |               |  “Q&A with students 1: questions and solutions for OMEGA computational experiments” (remote only)                                                                                   |   |
+| 10:30 - 10:40         | BNL             | "Opening and welcome"                                                                                   |   |
+| 10:40 - 10:50         | M. Pignatari              | “Introduction to NuGrid and IReNA”                                                                                    |   |
+| 10:50 - 11:20         | P. Denissenkov (UVic)   | "CaNPAN and international pedagogic and research activities in nuclear astrophysics
 "                                                                                                      |   |
-| 9:15 - 9:45      | B. Pritychenko (BNL)        | "Chemical Evolution of Fluorine in the Milky Way"                                                                   |   |
-| 9:45 - 10:00     | A.  Holas (Heidelberg) | "Thermonuclear electron-capture supernovae – New production sites completing the solar inventory of isotopes?"                                                                   |   |
-| 10:00 - 10:30 | Break                     |                                                                                                                     |   |
-| 10:30 - 11:00         | J. Wu (BNL) | "β-decays for r-process"                                                                         |   |
-| 11:00 - 11:25        | U. Battino (Keele)       | "Application of the ChANUREPS and OrCHESTRA Nuclear Astrophysics Databases in Stellar Nucleosynthesis Simulations" |   |
-| 11:25 - 11:40        | S. Abrahams (York)    | "Nucleosynthesis in accreting neutron star common envelopes"                                                                         |   |
-| 11:40 - 11:55        | W. Harun (Edinburgh)    | "Exploring the s-process nucleosynthesis in massive stars"                                                                         |   |
-| 11:55 - 12:10        | L. Roberti (Budapest)    | "Rare nuclei production in core-collapse supernovae: the γ-process nucleosynthesis"                                                                         |   |
-| 12:10 - 12:30        | S. Ota (BNL)    | "Closing remarks and wishlist for nuclear astrophysics"                                                                         |   |
-| 13:30 - 15:30        |     | "Q&A with students: questions and solutions for OMEGA and TINA computational experiments"                                                                          |   |
+| 11:20 - 11:50      | B. Pritychenko (BNL)        | "Chemical Evolution of Fluorine in the Milky Way"                                                                   |   |
+| 11:50 - 12:10     | A.  Holas (Heidelberg) | "Thermonuclear electron-capture supernovae – New production sites completing the solar inventory of isotopes?"                                                                   |   |
+| 12:10 - 13:30 | Lunch Break                     |                                                                                                                     |   |
+| 13:30 - 14:00         | J. Wu (BNL) | "β-decays for r-process"                                                                         |   |
+| 14:00 - 14:20        | U. Battino (Keele)       | "Application of the ChANUREPS and OrCHESTRA Nuclear Astrophysics Databases in Stellar Nucleosynthesis Simulations" |   |
+| 14:20 - 14:40        | S. Abrahams (York)    | "Nucleosynthesis in accreting neutron star common envelopes"                                                                         |   |
+| 14:40 - 15:00        | W. Harun (Edinburgh)    | "Exploring the s-process nucleosynthesis in massive stars"                                                                         |   |
+| 15:00 - 15:20        | L. Roberti (Budapest)    | "Rare nuclei production in core-collapse supernovae: the γ-process nucleosynthesis"                                                                         |   |
+| 15:20 - 15:30        | S. Ota (BNL)    | "Closing remarks"                                                                         |   |
+| 15:30 - 16:00        |     | Coffee Break                                                                          |   |
+| 16:00 - 17:00        |     | "Q&A with students 2: questions and solutions for TINA computational experiments"                                                                          |   |
 
 IReNA workshops and conferences are community events intended for networking
 and collaboration as well as learning. We value the participation of every
