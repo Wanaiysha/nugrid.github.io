@@ -41,7 +41,7 @@ Follow this [link](https://forms.gle/qSXv4bo9sMCv2df16) to sign up to the event 
 | 10:40 - 10:50         | M. Pignatari              | “Introduction to NuGrid and IReNA”                                                                                    |   |
 | 10:50 - 11:20         | P. Denissenkov (UVic)   | "CaNPAN and international pedagogic and research activities in nuclear astrophysics
 "                                                                                                      |   |
-| 11:20 - 11:50      | B. Pritychenko (BNL)        | "Chemical Evolution of Fluorine in the Milky Way"                                                                   |   |
+| 11:20 - 11:50      | B. Pritychenko (BNL)        | "Calculating Maxwellian Averaged Cross Sections, Astrophysical Reaction Rates, and r-process Abundances from the ENDF/B-VIII.1, JEFF-3.3, JENDL-5.0, BROND-3.1, and CENDL-3.2 Evaluated Data Libraries"                                                                   |   |
 | 11:50 - 12:10     | A.  Holas (Heidelberg) | "Thermonuclear electron-capture supernovae – New production sites completing the solar inventory of isotopes?"                                                                   |   |
 | 12:10 - 13:30 | Lunch Break                     |                                                                                                                     |   |
 | 13:30 - 14:00         | J. Wu (BNL) | "β-decays for r-process"                                                                         |   |
