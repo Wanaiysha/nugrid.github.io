@@ -27,7 +27,7 @@ Instructions about how to install the GCE codes OMEGA and OMEGA+ are provided
 in the file [Installation Instructions.pdf](https://nugrid.github.io/files/GCE-activity/InstallationInstructions.pdf). 
 
 The slides introducing the basics concepts of GCE and the activity are the
-files [GCE\_slides.pdf](https://nugrid.github.io/files/GCE-activity/GCE_slides.pdf). 
+files [GCE\_slides.pdf](https://nugrid.github.io/files/GCE-activity/GCE-slides.pdf). 
 The video presentations is available below: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7lRQls5AT5A?si=HxRVPh4OEHdAohXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
