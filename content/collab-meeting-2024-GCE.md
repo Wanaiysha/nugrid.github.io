@@ -27,16 +27,16 @@ Instructions about how to install the GCE codes OMEGA and OMEGA+ are provided
 in the file [Installation Instructions.pdf](https://nugrid.github.io/files/GCE-activity/InstallationInstructions.pdf). 
 
 The slides introducing the basics concepts of GCE and the activity are the
-files [GCE\_slides.pdf](https://nugrid.github.io/files/GCE-activity/GCE\_slides.pdf). 
+files [GCE\_slides.pdf](https://nugrid.github.io/files/GCE-activity/GCE_slides.pdf). 
 The video presentations is available below: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7lRQls5AT5A?si=HxRVPh4OEHdAohXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The main notebook of the GCE activity is: [GCE\_NuIRBNL\_tasks.ipynb](https://nugrid.github.io/files/GCE-activity/GCE\_NuIRBNL\_tasks.ipynb).
+The main notebook of the GCE activity is: [GCE\_NuIRBNL\_tasks.ipynb](https://nugrid.github.io/files/GCE-activity/GCE_NuIRBNL_tasks.ipynb).
 
 This comes with the support files to add in the same folder: 
-[script\_solar\_ab.py](https://nugrid.github.io/files/GCE-activity/script\_solar\_ab.py), 
-[Lodders\_et\_al\_2009.txt](https://nugrid.github.io/files/GCE-activity/Lodders\_et\_al\_2009.txt),
-and [Asplund\_et\_al\_2009\_iso.txt](https://nugrid.github.io/files/GCE-activity/Asplund\_et\_al\_2009\_iso.txt).
+[script\_solar\_ab.py](https://nugrid.github.io/files/GCE-activity/script_solar_ab.py), 
+[Lodders\_et\_al\_2009.txt](https://nugrid.github.io/files/GCE-activity/Lodders_et_al_2009.txt),
+and [Asplund\_et\_al\_2009\_iso.txt](https://nugrid.github.io/files/GCE-activity/Asplund_et_al_2009_iso.txt).
 
 You can also see an introductory video about how to run the notebook, specifically in Google Colab
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ok6Tcf0xhck?si=fdhWbkYaTC6zWrj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
