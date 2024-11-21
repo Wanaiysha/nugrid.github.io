@@ -21,31 +21,32 @@ The goal of these activities is to provide first-hand experience of GCE simulati
 ### Proposed Project 
 
 Basic GCE concepts and the evolution of the chemical abundances in the Milky Way Galaxy.
-The file [https://nugrid.github.io/files/GCE-activity/startpack.tar.gz](startpack.tar.gz) contains the basic instructions to install the python tools needed for the activity in your local machine, and there are two python notebooks (*ipynb) to familiarize with the python language (see the details in the documentation file includedin the tar.gz file.
+The file [startpack.tar.gz](https://nugrid.github.io/files/GCE-activity/startpack.tar.gz) contains the basic instructions to install the python tools needed for the activity in your local machine, and there are two python notebooks (*ipynb) to familiarize with the python language (see the details in the documentation file includedin the tar.gz file.
 
 Instructions about how to install the GCE codes OMEGA and OMEGA+ are provided
-in the file [https://nugrid.github.io/files/GCE-activity/InstallationInstructions.pdf'](Installation
-Instructions.pdf). 
+in the file [Installation Instructions.pdf](https://nugrid.github.io/files/GCE-activity/InstallationInstructions.pdf). 
 
 The slides introducing the basics concepts of GCE and the activity are the
-files [https://nugrid.github.io/files/GCE-activity/GCE\_slides.pdf](GCE_slides.pdf). 
+files [GCE\_slides.pdf](https://nugrid.github.io/files/GCE-activity/GCE\_slides.pdf). 
 The video presentations is available below: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7lRQls5AT5A?si=HxRVPh4OEHdAohXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The main notebook of the GCE activity is: [https://nugrid.github.io/files/GCE-activity/GCE\_NuIRBNL\_tasks.ipynb](GCE\_NuIRBNL\_tasks.ipynb).
+The main notebook of the GCE activity is: [GCE\_NuIRBNL\_tasks.ipynb](https://nugrid.github.io/files/GCE-activity/GCE\_NuIRBNL\_tasks.ipynb).
 
 This comes with the support files to add in the same folder: 
-[https://nugrid.github.io/files/GCE-activity/script\_solar\_ab.py](script\_solar\_ab.py), 
-[https://nugrid.github.io/files/GCE-activity/Lodders\_et\_al\_2009.txt](Lodders\_et\_al\_2009.txt),
-and [https://nugrid.github.io/files/GCE-activity/Asplund\_et\_al\_2009\_iso.txt](Asplund\_et\_al\_2009\_iso.txt).
+[script\_solar\_ab.py](https://nugrid.github.io/files/GCE-activity/script\_solar\_ab.py), 
+[Lodders\_et\_al\_2009.txt](https://nugrid.github.io/files/GCE-activity/Lodders\_et\_al\_2009.txt),
+and [Asplund\_et\_al\_2009\_iso.txt](https://nugrid.github.io/files/GCE-activity/Asplund\_et\_al\_2009\_iso.txt).
 
 You can also see an introductory video about how to run the notebook, specifically in Google Colab
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ok6Tcf0xhck?si=fdhWbkYaTC6zWrj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
 For any questions, typos noticed, or files missing, please contact one of us:
-[Blanka Világos](mailto:blanka.vilagos@astro.su.se?subject='NuGrid GCE Activity')
-[Viola Hegedűs](vhegedus@staff.elte.hu?subject='NuGrid GCE Activity') 
-[Dr. Marco Pignatari](mailto:marco.pignatari@csfk.org?subject='NuGrid GCE Activivy')
+[Blanka Világos](mailto:blanka.vilagos@astro.su.se?subject=NuGrid GCE Activity)
+
+[Viola Hegedűs](vhegedus@staff.elte.hu?subject=NuGrid GCE Activity) 
+
+[Dr. Marco Pignatari](mailto:marco.pignatari@csfk.org?subject=NuGrid GCE Activivy)
 
 
 ---
