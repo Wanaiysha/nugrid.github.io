@@ -82,6 +82,7 @@ collaboration rules.
 |                                     | Liam Kroll                           |
 | **MPI for Intelligent Systems**     | Jean-Claude Passy                    |
 | **Brookhaven National Laboratory**  | Shuya Ota                            |
+|                                     | Allyson Dewey                        |
 | **University of Rijeka, Croatia**   | Marina Manganaro                     |
 |                                     | Luka Božić                           |
 |                                     | Agata Vujić                          |

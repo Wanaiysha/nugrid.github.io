@@ -11,8 +11,10 @@
 * **Radioactive isotopes ccSN** ([Lawson *et al*
   2022](https://doi.org/10.1093/mnras/stab3684)), Analysis of yields from 62
   core-collapse supernovae models
-* **iRAWD** ([Stephens *et al* 2021](https://doi.org/10.1093/mnras/stab500)],
+* **iRAWD** ([Stephens *et al* 2021](https://doi.org/10.1093/mnras/stab500)),
   *i*-process in rapidly accreting white dwarfs (RAWD)
+
+* **Type Ia SN** ([Keegans *et al*]()), common envelope
 
 ## Data access
 
